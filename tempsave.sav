@@ -1,7 +1,7 @@
 [Items]
 07="Nothing"
 06="Nothing"
-05="Nothing"
+05="G. Pear"
 04="Corn Dog"
 03="Patch"
 02="Rubber Ammo"
@@ -11,7 +11,7 @@
 owms="-4.000000"
 ffight="0.000000"
 playerSprite="normal"
-rmName="Dark Ruins - Hall"
+rmName="Dark Ruins - Entrance"
 Accessory="Feather"
 Weapon="Toy Gun"
 Ammo="Pebble Ammo"
