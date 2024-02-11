@@ -1,6 +1,6 @@
 [Items]
 07="Nothing"
-06="Nothing"
+06="Hndw Pancake"
 05="G.B. Bear"
 04="Hndw Pancake"
 03="Hndw Coffee"
@@ -8,10 +8,10 @@
 01="Lukewarm Pop"
 00="Hot Pop"
 [Save1]
-owms="172.000000"
+owms="154.000000"
 ffight="0.000000"
 playerSprite="snowdin"
-rmName="Snowdin - Resort"
+rmName="Dark Ruins - Entrance"
 Accessory="Band Merch Pin"
 Weapon="Toy Gun"
 Ammo="Ice Pellets"
