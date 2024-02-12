@@ -1,6 +1,6 @@
 [Items]
-07="Nothing"
-06="Safety Jacket"
+07="Packing Peanuts"
+06="Fruitcake"
 05="Sea Tea"
 04="Ice Tea"
 03="Green Tea"
@@ -8,10 +8,10 @@
 01="Cold Pop"
 00="Lukewarm Pop"
 [Save1]
-owms="154.000000"
+owms="174.000000"
 ffight="0.000000"
 playerSprite="normal"
-rmName="Mines - Elevator"
+rmName="Dark Ruins - Entrance"
 Accessory="Steel Buckle"
 Weapon="Toy Gun"
 Ammo="Flint"
