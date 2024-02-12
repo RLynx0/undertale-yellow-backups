@@ -1,6 +1,6 @@
 [Items]
 07="Nothing"
-06="Nothing"
+06="Gravity Granola"
 05="Gravity Granola"
 04="Gravity Granola"
 03="Gunpowder"
@@ -8,10 +8,10 @@
 01="G.B. Bear"
 00="Cold Pop"
 [Save1]
-owms="216.000000"
+owms="-4.000000"
 ffight="0.000000"
 playerSprite="normal"
-rmName="Steamw. - Botany Hall"
+rmName="The Furnace"
 Accessory="G. Bandana"
 Weapon="Wild Revolver"
 Ammo="Friendliness Pellets"
